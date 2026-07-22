@@ -1,39 +1,37 @@
 
-# Hey, I'm Julian!
+<h1 align="center">Hey, I'm Julian! 👋</h1>
 
-• System Engineering student at Universidad Distrital, Bogotá, Colombia
+<p align="center">
+  Systems Engineering Student at Universidad Distrital, Bogota, Colombia.
+</p>
 
-• Developer in development.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Julito-Dev/Julito-Dev/output/github-snake-dark.svg" alt="Snake animation">
+</p>
 
-
-![snake gif](https://github.com/Julito-Dev/Julito-Dev/blob/output/github-snake-dark.svg)
-## 🚀 I like learning about:
-• Python
-
-• Java
-
-• C++
-
-• Software Development
-
-• Artificial Inteligence
-
-• Computer Architecture
-
-
-
+## 🚀 Currently Learning
+- Python
+- Java
+- C++
+- Software Development
+- Artificial Intelligence
+- Computer Architecture
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,cmake,sqlite" />
 </p>
 
-## Github Stats
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julito-Dev&theme=sakura-x&border_radius=5)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Julito-Dev&theme=sakura-x&border_radius=5" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Julito-Dev&langs_count=4&theme=omni" height="180"/>
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Julito-Dev&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=Julito-Dev&langs_count=4&theme=omni)
+---
 
-
- Thanks To visit My Profile!!
+<p align="center">
+  <sub>Thanks for visiting my profile! ⭐</sub>
+</p>
