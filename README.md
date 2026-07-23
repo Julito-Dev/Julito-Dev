@@ -5,9 +5,6 @@
   Systems Engineering Student at Universidad Distrital, Bogota, Colombia.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Julito-Dev/Julito-Dev/output/github-snake-dark.svg" alt="Snake animation">
-</p>
 
 ## 🚀 Currently Learning
 - Python
