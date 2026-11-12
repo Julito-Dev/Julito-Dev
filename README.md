@@ -39,7 +39,7 @@ mindset   : Loving What i Do
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,cmake,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,r,git,github,vscode,cmake,maven,sqlite" />
 </p>
 
 ## 📊 GitHub Stats
@@ -48,10 +48,9 @@ mindset   : Loving What i Do
   </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Julito-Dev&theme=sakura-x&border_radius=5" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Julito-Dev&langs_count=4&theme=omni" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julito-Dev&theme=radical&animation=draw"
+  <img src="https://ghstats.dev/api/langs?username=Julito-Dev&theme=sunset&layout=donut_vertical" alt="Top Languages" />
 </p>
 
 <p align="center">
