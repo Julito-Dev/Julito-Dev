@@ -50,7 +50,7 @@ mindset   : Loving What i Do
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Julito-Dev&theme=sakura-x&border_radius=5" height="180"/>
 </p>
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=Julito-Dev&theme=sunset&layout=donut_vertical" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=Julito-Dev&theme=sunset&max_langs=10&layout=donut" alt="Top Languages" />
 </p>
 
 <p align="center">
